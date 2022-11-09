@@ -13,7 +13,7 @@ SQL EDA:
 tableau Viz: https://public.tableau.com/app/profile/idam7271/viz/lol_16651761473990/Dashboard1
 
 3. Customer analysis
-
+Data Source: https://github.com/stanley-george-joseph/Customer-Analysis-Tableau
 tableau Viz: https://public.tableau.com/app/profile/idam7271/viz/belajar_02_CustomerAnalysis/Dashboard1
 
 4. K-Means Clustering
