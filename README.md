@@ -2,7 +2,7 @@
 
 1. Bachelor research
 
-I learned Data analysis unconsciously in my bachelor degree. We did plenty formula implementation to marine physics and marine biology data, and also we did a lot of data visualization to present our works to lecturers. Here one of my "data analyst" work in my bachelor. 
+I learned Data analysis unconsciously in my bachelor degree. We did plenty formula implementation to marine physics and marine biology data to solve problem formulation, and also we did a lot of data visualization to present our works to lecturers. Here's below, one of my "data analyst" works in my bachelor year. 
 
 result: https://docs.google.com/presentation/d/13Xkhrg2Lg76w8Zy7XWmYSUtGfS0zfO7yxxnGhXFmr58/edit?usp=sharing
 
